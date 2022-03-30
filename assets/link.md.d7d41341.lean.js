@@ -1,0 +1,1 @@
+import{_ as e,c as r,o,a as t}from"./app.ce63a229.js";const g='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"link.md","lastUpdated":1648644703000}',a={},l=t("",1),n=[l];function i(s,h,p,_,c,f){return o(),r("div",null,n)}var m=e(a,[["render",i]]);export{g as __pageData,m as default};
