@@ -1,0 +1,1 @@
+import{_ as e,c as i,o as p,a as o}from"./app.ce63a229.js";const _='{"title":"git \u547D\u4EE4","description":"","frontmatter":{},"headers":[],"relativePath":"docs/git.md","lastUpdated":1648637877000}',t={},c=o("",2),a=[c];function d(g,r,s,l,n,h){return p(),i("div",null,a)}var u=e(t,[["render",d]]);export{_ as __pageData,u as default};
