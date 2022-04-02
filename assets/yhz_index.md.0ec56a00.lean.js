@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t,a as r}from"./app.24b47e91.js";const p='{"title":"\u5185\u5BB9\u76EE\u5F55","description":"","frontmatter":{},"headers":[],"relativePath":"yhz/index.md","lastUpdated":1648900668000}',i={},l=r("",4),o=[l];function h(n,_,d,s,c,f){return t(),a("div",null,o)}var u=e(i,[["render",h]]);export{p as __pageData,u as default};
