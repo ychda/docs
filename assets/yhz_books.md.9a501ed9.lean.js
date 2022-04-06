@@ -1,0 +1,1 @@
+import{_ as i,c as l,o as e,a as t}from"./app.36639cca.js";const m='{"title":"\u8BFB\u4E66","description":"","frontmatter":{},"headers":[],"relativePath":"yhz/books.md","lastUpdated":1649253397000}',a={},o=t("",2),_=[o];function r(s,c,d,n,h,p){return e(),l("div",null,_)}var u=i(a,[["render",r]]);export{m as __pageData,u as default};
