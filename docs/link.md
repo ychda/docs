@@ -17,7 +17,7 @@
 14. [Markdown 教程](https://markdown.com.cn/)
 15. [GitHub Markdown 文档](https://docs.github.com/cn/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 16. [vi](https://www.cs.colostate.edu/helpdocs/vi.html)
-17. []()
+1. [Java核心技术](https://horstmann.com/corejava/)
 
 
 
