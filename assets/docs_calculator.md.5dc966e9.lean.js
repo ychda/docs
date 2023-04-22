@@ -1,1 +1,0 @@
-import{_ as e,c,o,a}from"./app.b8c921aa.js";const b='{"title":"calculator","description":"","frontmatter":{},"headers":[],"relativePath":"docs/calculator.md","lastUpdated":1682166141000}',d={},l=a("",2),r=[l];function t(i,_,s,n,u,h){return o(),c("div",null,r)}var m=e(d,[["render",t]]);export{b as __pageData,m as default};
