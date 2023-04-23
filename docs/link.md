@@ -18,7 +18,4 @@
 1. [GitHub Markdown 文档](https://docs.github.com/cn/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 1. [vi](https://www.cs.colostate.edu/helpdocs/vi.html)
 1. [Java核心技术](https://horstmann.com/corejava/)
-
-
-
-
+1. [Guido van Rossum](https://gvanrossum.github.io/)
