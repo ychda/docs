@@ -1,0 +1,7 @@
+1. [Android](https://www.android.com/)
+1. [Android Studio](https://developer.android.com/studio)
+1. [Kotlin](https://kotlinlang.org/)
+1. []()
+1. []()
+1. []()
+1. []()
