@@ -20,3 +20,4 @@
 1. [Java核心技术](https://horstmann.com/corejava/)
 1. [Guido van Rossum](https://gvanrossum.github.io/)
 1. [中国哲学书电子化计划](https://ctext.org/zh)
+1. [WolframAlpha](https://www.wolframalpha.com/)
