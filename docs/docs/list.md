@@ -1,2 +1,8 @@
+- Core Java
 - Spring Boot
+- HTML & CSS
+- JavaScript
+- Docker
+- Kubernetes
+- MySQL
 - 
