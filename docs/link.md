@@ -21,3 +21,4 @@
 1. [Guido van Rossum](https://gvanrossum.github.io/)
 1. [中国哲学书电子化计划](https://ctext.org/zh)
 1. [WolframAlpha](https://www.wolframalpha.com/)
+1. [https://hackingcpp.com/](https://hackingcpp.com/)
