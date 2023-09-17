@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as t,a}from"./app.b8c921aa.js";const m='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"docs/android.md","lastUpdated":1694951800000}',o={},l=a("",1),n=[l];function i(_,d,s,c,h,p){return t(),r("div",null,n)}var u=e(o,[["render",i]]);export{m as __pageData,u as default};
