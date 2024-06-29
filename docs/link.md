@@ -1,9 +1,9 @@
 1. [https://git-scm.com/book/zh/v2](https://git-scm.com/book/zh/v2)
 2. [GitHub](https://github.com/ychda)
 3. [Kotlin](https://kotlinlang.org/)
-4. [Django 文档](https://docs.djangoproject.com/zh-hans/4.0/)
+4. [Django 文档](https://docs.djangoproject.com/zh-hans/5.0/)
 5. [Scrapy](https://scrapy.org/)
-6. [VuePress 2](https://v2.vuepress.vuejs.org/zh/)
+6. [Node.js](https://nodejs.org/zh-cn)
 7. [VitePress](https://vitepress.vuejs.org/)
    - <https://github.com/vuejs-translations/docs-zh-cn>
    - [vuejs blog](https://blog.vuejs.org/)
@@ -23,3 +23,5 @@
 20. [中国哲学书电子化计划](https://ctext.org/zh)
 21. [WolframAlpha](https://www.wolframalpha.com/)
 22. [https://hackingcpp.com/](https://hackingcpp.com/)
+23. [Stylus](https://stylus-lang.com/)
+24. [COMPILER EXPLORER](https://godbolt.org/)
